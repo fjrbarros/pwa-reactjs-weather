@@ -16,4 +16,4 @@ Este aplicativo usa uma api do site  [Open weather](https://openweathermap.org/)
 
 ## Url aplicativo
 
-Este projeto encontra-se hospedado usando o [Netlify](https://www.netlify.com/) e pode ser acessado na url: https://fervent-colden-e0e71f.netlify.app 
+Este projeto encontra-se hospedado usando o [Netlify](https://www.netlify.com/) e pode ser acessado na url: https://fjr-weather.netlify.app
